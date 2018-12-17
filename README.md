@@ -1,0 +1,2 @@
+# ForecastingWPF
+Information forecasting from the Twitter users, which is currently local, is found in the signal file in the bin folder, so no current information is being taken from Twitter. The prediction is based on an example taken in 2016. In order to accurately predict, a learning algorithm was used using the WEKA API. The project was written in WPF # C as part of the final project i do in my degree.
