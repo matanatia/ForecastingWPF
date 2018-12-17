@@ -1,0 +1,177 @@
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WekaForecastingWPF.exe.config
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WekaForecastingWPF.exe
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WekaForecastingWPF.pdb
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\Forcast.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.Runtime.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\jcommon-1.0.14.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\jfreechart-1.0.13.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\timeseriesForecasting1.0.25.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.pdb
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.xml
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.csprojResolveAssemblyReference.cache
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\App.g.cs
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF_MarkupCompile.cache
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF_MarkupCompile.lref
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\MainWindow.baml
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.g.resources
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.Properties.Resources.resources
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.csproj.GenerateResource.Cache
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.exe
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.pdb
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WinFormAnimation.dll
+C:\Users\matan atiya\Desktop\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WinFormAnimation.xml
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WekaForecastingWPF.exe.config
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WekaForecastingWPF.exe
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WekaForecastingWPF.pdb
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\Forcast.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.Runtime.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WinFormAnimation.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.pdb
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.xml
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WinFormAnimation.xml
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.csprojResolveAssemblyReference.cache
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\App.g.cs
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF_MarkupCompile.cache
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF_MarkupCompile.lref
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\MainWindow.baml
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.g.resources
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.Properties.Resources.resources
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.csproj.GenerateResource.Cache
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.exe
+C:\Users\matan atiya\Desktop\פרויקטים\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.pdb
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WekaForecastingWPF.exe.config
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WekaForecastingWPF.exe
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WekaForecastingWPF.pdb
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\Forcast.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.Runtime.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WinFormAnimation.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.pdb
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.xml
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WinFormAnimation.xml
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.csprojResolveAssemblyReference.cache
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\App.g.cs
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF_MarkupCompile.cache
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF_MarkupCompile.lref
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\MainWindow.baml
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.g.resources
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.Properties.Resources.resources
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.csproj.GenerateResource.Cache
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.exe
+C:\Users\matan atiya\Desktop\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.pdb
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WekaForecastingWPF.exe.config
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WekaForecastingWPF.exe
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WekaForecastingWPF.pdb
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\Forcast.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.Runtime.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.Wpf.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WinFormAnimation.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.pdb
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.xml
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.Wpf.pdb
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\LiveCharts.Wpf.xml
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\bin\Debug\WinFormAnimation.xml
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.csprojResolveAssemblyReference.cache
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\MainWindow.g.cs
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\App.g.cs
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF_MarkupCompile.cache
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF_MarkupCompile.lref
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\MainWindow.baml
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.g.resources
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.Properties.Resources.resources
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.csproj.GenerateResource.cache
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.csproj.CoreCompileInputs.cache
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.csproj.CopyComplete
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.exe
+D:\Projects\פרוייקטים שצריך לשפר\WekaForecastingWPF\WekaForecastingWPF\obj\Debug\WekaForecastingWPF.pdb
