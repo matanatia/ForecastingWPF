@@ -1,0 +1,45 @@
+﻿<Window x:Class="WekaForecastingWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WekaForecastingWPF"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        mc:Ignorable="d"
+        Title="Forecasting" Height="682" Width="1165">
+    <Grid Margin="0,10,11,31">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width ="auto" />
+        </Grid.ColumnDefinitions>
+        <lvc:CartesianChart x:Name="Chart" LegendLocation="Bottom" Margin="0,10,142,-27">
+            <lvc:CartesianChart.Series>
+                <lvc:ScatterSeries Title="Current Data" Values="{Binding Current_Data}" />
+                <lvc:ScatterSeries Title="Next Data" Values="{Binding Next_Data}" />
+                <lvc:LineSeries Title="Predicted Data" Values="{Binding Predicted_Data}" />
+                <lvc:ScatterSeries Title="Negetive Predicted Data" Values="{Binding Negetive_Predicted_Data}" Fill="#FF37474F" Stroke="#FF37474F"/>
+            </lvc:CartesianChart.Series>
+        </lvc:CartesianChart>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="172" Margin="985,40,0,0" VerticalAlignment="Top" Width="135"/>
+        <Button x:Name="Forecast" Content="Forecast" HorizontalAlignment="Left" Margin="987,367,0,0" VerticalAlignment="Top" Width="135" IsCancel="True" Click="Forecast_Click" Height="38"/>
+        <Popup x:Name="Popup" Placement="Mouse">
+            <Grid Background="CadetBlue" Width="214">
+                <TextBlock x:Name="PopupMassege" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="FloralWhite"/>
+                <Button x:Name="ok_btn" Margin="68,51,72,5" Click="ok_btn_Click">Ok</Button>
+            </Grid>
+        </Popup>
+        <Grid Height="auto" Width="auto">
+            <ProgressBar x:Name="ProgressBar" HorizontalAlignment="Left" Height="25" Margin="988,507,0,0" VerticalAlignment="Top" Width="132" Foreground="CadetBlue"/>
+            <TextBlock Text="{Binding ElementName=ProgressBar, Path=Value, StringFormat={}{0:0}%}" 
+              TextAlignment="Center" Margin="873,507,-99,40" RenderTransformOrigin="0.562,0.563" Height="25"/>
+            <Label Content=" Hashtags list:" Margin="1008,0,9,540"/>
+            <Button x:Name="Current_Data_btn" Content="Current Data" HorizontalAlignment="Left" Margin="988,231,0,0" VerticalAlignment="Top" Width="135" Click="Current_Data_btn_Click" RenderTransformOrigin="0.7,0.35" Height="44"/>
+            <Label Content="Steps to forecast:" HorizontalAlignment="Left" Margin="988,302,0,0" VerticalAlignment="Top" Width="113"/>
+            <TextBox x:Name="TextBox" HorizontalAlignment="Left" Height="27" Margin="988,333,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135"/>
+            <Label x:Name="Standard_Error" HorizontalAlignment="Left" Margin="988,543,0,0" VerticalAlignment="Top" Height="30" Width="135" Content="Standard Error:"/>
+        </Grid>
+        <Label Content="Process Progress:" HorizontalAlignment="Left" Margin="985,476,0,0" VerticalAlignment="Top" Width="114" Height="28"/>
+    </Grid>
+</Window>
